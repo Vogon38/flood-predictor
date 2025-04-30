@@ -1,4 +1,4 @@
-# Previsor de Risco de Enchente (Rio do Sul - Exemplo Acadêmico)
+# Previsão de Enchente (Rio do Sul - Exemplo Acadêmico)
 
 ## Objetivo
 
@@ -170,4 +170,3 @@ A adaptação mais desafiadora geralmente é obter os dados históricos e ajusta
 * **Calibração do Modelo de Limiares:** Validar e refinar a fórmula em `risk_calculator.py` que estima o aumento do nível do rio com base na chuva, usando dados observados de chuva x aumento do nível para a bacia.
 * **Outras Variáveis:** Incluir dados de estações a montante (rio acima), níveis de reservatórios (barragens), ou outras variáveis relevantes.
 * **Interface/Visualização:** Criar um dashboard web para apresentar as previsões de forma mais interativa.
-# flood-predictor
