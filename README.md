@@ -69,8 +69,8 @@ rio_do_sul_flood_predictor/
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <url-do-seu-repositorio>
-    cd rio_do_sul_flood_predictor
+    git clone https://github.com/Vogon38/flood-predictor.git
+    cd flood_predictor
     ```
 2.  **Crie e Ative um Ambiente Virtual:**
     ```bash
