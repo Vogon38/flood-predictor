@@ -241,5 +241,3 @@ def get_ndwi_value():
         max_cloud_percent=config.MAX_CLOUD_COVER_PERCENT
     )
     return ndwi_mean
-
-# --- Final do Arquivo ---
