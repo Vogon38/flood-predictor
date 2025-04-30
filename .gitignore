@@ -1,0 +1,53 @@
+# Ambientes Virtuais
+venv/
+env/
+ENV/
+*.venv
+.venv
+
+# Arquivos de Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de Configuração Sensível
+.env
+*.env
+
+# Logs
+logs/*.log
+*.log
+
+# Arquivos de Dados (Opcional - Descomente se não quiser versionar os dados)
+data/flood_forecast_output.csv
+data/historical_floods_faked.csv
+data/historical_weather_faked.csv
+data/*.png
+landsat_bands/*.tif
+
+# Modelo ML (Opcional - Descomente se não quiser versionar o modelo treinado)
+model/*.pkl
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos IDE/Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de Teste (Exemplo)
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Arquivos build/dist Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Arquivos temporários Jupyter Notebook
+.ipynb_checkpoints

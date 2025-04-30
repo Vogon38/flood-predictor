@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pandas
+numpy
+matplotlib
+python-dotenv
+scikit-learn
+rasterio
+# GEE Libraries (Opcional: Removidas ou comentadas pois USE_NDWI = False)
+# google-api-python-client
+# earthengine-api
+# google-auth-httplib2
